@@ -1,3 +1,7 @@
+# Working Files
+processed/*
+to_convert/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
